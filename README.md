@@ -25,6 +25,7 @@ This will be reading notes for Code Fellows
 Task | Markdown Example
 ------------ | -------------
 Inline code | I think you should use an `<addr>` element here instead
-Task Lists | [x] this is a complete item and - [ ] this is an incomplete item
+Completed Task List | [x] this is a complete item  
+Incomplete Task List | [ ] this is an incomplete item
 Strikethrough | wrap with two tildes
 Emojis | check out the [Emoji Cheat Sheet] (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
