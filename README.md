@@ -28,4 +28,4 @@ Inline code | I think you should use an `<addr>` element here instead
 Completed Task | [x] this is a complete item  
 Incomplete Task | [ ] this is an incomplete item
 Strikethrough | wrap with two tildes
-Emojis | check out the [Emoji Cheat Sheet!] (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+Emojis | check out the [to Emoji Cheat Sheet!] (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
