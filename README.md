@@ -19,7 +19,7 @@ This will be reading notes for Code Fellows
 > - very easy to create bold or italic with aestricks 
 > - use hashtags to indicate level of headers, more hashtag the small the headers
 > - you can use markdown to create ordered and unordered lists
-> - of course there's an opportunity to insert images! following proper format {Format: ![Minion](https://m.media-amazon.com/images/I/61bRfnGfJTL._AC_SX466_.jpg)}
+> - of course there's an opportunity to insert images! following proper format {![Minion](https://m.media-amazon.com/images/I/61bRfnGfJTL._AC_SX466_.jpg)}
 > - others see table below:
 
 Task | Markdown Example
@@ -28,4 +28,4 @@ Inline code | I think you should use an `<addr>` element here instead
 Completed Task | [x] this is a complete item  
 Incomplete Task | [ ] this is an incomplete item
 Strikethrough | wrap with two tildes
-Emojis | check out the Emoji Cheat Sheet (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+Emojis | check out the [Emoji Cheat Sheet (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)]
