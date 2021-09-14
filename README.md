@@ -14,7 +14,7 @@ This will be reading notes for Code Fellows
 > Please find my GitHub Portfolio page at: https://github.com/heidihcao
 
 
-## **Mastering Markdown Notes**
+#### **Mastering Markdown Notes**
 **markdown: markup language for creating formatted text using a plain-text editor**
 > - very easy to create bold or italic with asterisks
 > - use hashtags to indicate level of headers, more hashtag the small the headers
