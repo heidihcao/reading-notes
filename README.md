@@ -16,13 +16,14 @@ This will be reading notes for Code Fellows
 
 ## **Mastering Markdown Notes**
 **markdown: markup langauge for creating formatted text using a plain-text editor**
-> very easy to create bold or italic with aestricks 
-> use hashtags to indicate level of headers, more hashtag the small the headers
-> you can use markdown to create ordered and unordered lists
-> of course there's an opportunity to insert images! following proper format {Format: ![Alt Text](url)}
-> others see table below:
+> - very easy to create bold or italic with aestricks 
+> - use hashtags to indicate level of headers, more hashtag the small the headers
+> - you can use markdown to create ordered and unordered lists
+> - of course there's an opportunity to insert images! following proper format {Format: ![Alt Text](url)}
+> - others see table below:
 
-**Task | Markdown Example**
+Task | Markdown Example
+------------ | -------------
 Inline code | I think you should use an `<addr>` element here instead
 Task Lists | [x] this is a complete item and - [ ] this is an incomplete item
 Strikethrough | wrap with two tildes
