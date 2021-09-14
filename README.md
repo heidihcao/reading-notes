@@ -1,8 +1,6 @@
 # reading-notes
 This will be reading notes for Code Fellows
 
-pound sign is a mark down.
-two pound signs --> bolder
 **mark down: markup langauge for creating formatted text using a plain-text editor**
 
 ## growth mindset is: 
@@ -14,5 +12,7 @@ two pound signs --> bolder
 1. be level-headed and not be tempted to compare with peers
 
 
-> Code block goes here
+> Hi everyone! My name is Heidi Cao and I'm excited for my career change into tech.
+> Please find my GitHub Portfolio page at: https://github.com/heidihcao
+
 
