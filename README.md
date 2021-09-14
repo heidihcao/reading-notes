@@ -31,4 +31,6 @@ Strikethrough | wrap with two tildes
 Emojis | check out [Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
 `dragonfly`
-: dragonfly
+@ dragonfly
+= dragonfly
++ dragonfly
