@@ -19,8 +19,8 @@ This will be reading notes for Code Fellows
 > - very easy to create bold or italic with aestricks 
 > - use hashtags to indicate level of headers, more hashtag the small the headers
 > - you can use markdown to create ordered and unordered lists
-> - of course there's an opportunity to insert images!
-> [Minion!](https://m.media-amazon.com/images/I/61bRfnGfJTL._AC_SX466_.jpg)
+> - of course there's an opportunity to insert images![Minion!](https://m.media-amazon.com/images/I/61bRfnGfJTL._AC_SX466_.jpg)
+
 > - others see table below:
 
 Task | Markdown Example
