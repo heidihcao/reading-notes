@@ -29,3 +29,7 @@ Completed Task | [x] this is a complete item
 Incomplete Task | [ ] this is an incomplete item
 Strikethrough | wrap with two tildes
 Emojis | check out https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
+& dragonfly
+* dragonfly
+`dragonfly`
