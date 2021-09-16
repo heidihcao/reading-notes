@@ -1,6 +1,11 @@
 # reading-notes
 This will be reading notes for Code Fellows
 
+##Table of Contents (link)
+[Day 1 Reading Notes](README.md)
+[Day 2 Reading Notes](reading-notes2.md)
+
+
 ## growth mindset is: 
 - it is a mindset that believes in trial and error, and that progress and improvement can be earned through hard work and attempts rather than pre-determined by talent or hard-wired traits.
 
