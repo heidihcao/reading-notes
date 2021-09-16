@@ -7,7 +7,7 @@
 
 ### Deploy or publish a page on github: setting -- > pages  -- > source  -- >  save
 Access your link: Copy link, go to main page (<>Code), click on setting sprout
-Link something inside .md file: [what you want to appear](reading-notes.md)
+Link something inside .md file: [what you want to appear](README.md)
 
 1. ACP: add commit push
 1. Bring github to computer
