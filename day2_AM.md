@@ -1,9 +1,11 @@
-> what is git: underlying tech on which github is built
-a version control system, lets multiple developers work on the same code
-git represents the current version as HEAD of project
-can also assign messages to commits (it’s like captioning for your snapshot)
+# [<==Home](README.md)
 
-Deploy or publish a page on github: setting -- > pages  -- > source  -- >  save
+## what is git: underlying tech on which github is built
+> a version control system, lets multiple developers work on the same code
+> git represents the current version as HEAD of project
+> can also assign messages to commits (it’s like captioning for your snapshot)
+
+### Deploy or publish a page on github: setting -- > pages  -- > source  -- >  save
 Access your link: Copy link, go to main page (<>Code), click on setting sprout
 Link something inside .md file: [what you want to appear](reading-notes.md)
 
