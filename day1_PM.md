@@ -1,4 +1,4 @@
-#[<==Home](README.md)
+# [<==Home](README.md)
 
 **What** is text editor
 > a software taht allows you to write and manage text
