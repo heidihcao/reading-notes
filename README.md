@@ -13,5 +13,6 @@ Topic | Day
 ------------ | -------------
 [Day 1 AM Reading Notes](day1_AM.md)| Markdown
 [Day 2 PM Reading Notes](day1_PM.md)| Text Editor
-[Day 2 Reading Notes](day2_AM.md) | Git Add Commit Push
+[Day 2 AM Reading Notes](day2_AM.md) | Git ACP
+[Day 2 PM Reading Notes](day2_PM.md) | HTML
 
