@@ -1,3 +1,5 @@
+# [<==Home](README.md)
+
 ## growth mindset is: 
 - it is a mindset that believes in trial and error, and that progress and improvement can be earned through hard work and attempts rather than pre-determined by talent or hard-wired traits.
 
