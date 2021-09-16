@@ -18,5 +18,3 @@ Link something inside .md file: [what you want to appear](README.md)
 1. Git add NAME OF THE FILE IM MAKING CHANGES TO
 1. Git commit -m “COMMENT”
 1. Git push origin main
-
-
