@@ -1,6 +1,6 @@
 # [<==Home](README.md)
 ## HTML
-* hypertext markup language
+* Hypertext markup language
 * **Elements/Tags: OL, UL, P, Tables**
 * Most elements will have an *opening and a closing* {}
 * Some elements are *self-closing*
@@ -13,9 +13,11 @@
     <title>My test page</title>
   </head>
   <body>
-    <img src="https://5qcentral.com/wp-content/uploads/2018/12/tests.png" alt="TEST Image in HTML">
   </body>
 </html>
+
+### Links
+<a href="https://www.google.com/">TEST GOOGLE LINK</a>
 
 ## Markup in an HTML
 <h1>My main title</h1>
@@ -24,5 +26,4 @@
 ### Image
 <img src="https://5qcentral.com/wp-content/uploads/2018/12/tests.png" alt="TEST Image in HTML">
 
-### Links
-<a href="https://www.google.com/">TEST GOOGLE LINK</a>
+
