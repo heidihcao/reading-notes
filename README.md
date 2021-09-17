@@ -1,6 +1,7 @@
 ## Reading Notes
 This will be reading notes for Code Fellows
 
+
 ## Intro
 * I'm based in Seattle, WA
 * Career changer
