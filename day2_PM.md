@@ -13,7 +13,7 @@
     <title>My test page</title>
   </head>
   <body>
-    <img src="images/firefox-icon.png" alt="My test image">
+    <img src="https://5qcentral.com/wp-content/uploads/2018/12/tests.png" alt="TEST Image in HTML">
   </body>
 </html>
 
@@ -22,7 +22,7 @@
 <p>This is a single paragraph</p>
 
 ### Image
-<img src="images/firefox-icon.png" alt="My test image">
+<img src="https://5qcentral.com/wp-content/uploads/2018/12/tests.png" alt="TEST Image in HTML">
 
 ### Links
-<a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla Manifesto</a>
+<a href="https://www.google.com/">TEST GOOGLE LINK</a>
