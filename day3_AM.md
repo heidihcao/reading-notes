@@ -45,12 +45,12 @@ h1 {
 
 #### Different HEX colors with transparency ####
 <br/>
-[x] #p1a {background-color: #ff000080;}   /* red transparency */
-[x] #p2a {background-color: #00ff0080;}   /* green transparency */
-[x] #p3a {background-color: #0000ff80;}   /* blue transparency */
+ <br/>#p1a {background-color: #ff000080;}   /* red transparency */
+ <br/>#p2a {background-color: #00ff0080;}   /* green transparency */
+ <br/>#p3a {background-color: #0000ff80;}   /* blue transparency */
 
-#### RGB Colors #### <br/>
-An RGB color value is specified with the rgb() function: **rgb(red, green, blue)**
-[x] #p1 {background-color: rgb(255, 0, 0);}   /* red */
-[x] #p2 {background-color: rgb(0, 255, 0);}   /* green */
-[x] #p3 {background-color: rgb(0, 0, 255);}   /* blue */
+#### RGB Colors ####
+ <br/> An RGB color value is specified with the rgb() function: **rgb(red, green, blue)**
+ <br/>#p1 {background-color: rgb(255, 0, 0);}   /* red */
+ <br/>#p2 {background-color: rgb(0, 255, 0);}   /* green */
+ <br/>#p3 {background-color: rgb(0, 0, 255);}   /* blue */
