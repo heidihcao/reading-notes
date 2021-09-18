@@ -18,11 +18,11 @@
 >}
 
 ### CSS Color Property ###
-Value | Day
+Value | Definition
 ------------ | -------------
-color| Specifies the text color. [CSS Color Values, a complete list of possible color values](https://www.w3schools.com/cssref/css_colors_legal.asp)
-initial| [Sets this property to its default value](https://www.w3schools.com/cssref/css_initial.asp)
-inherit| [Inherits this property from its parent element](https://www.w3schools.com/cssref/css_inherit.asp)
+color | Specifies the text color; [CSS Color Values, a complete list of possible color values](https://www.w3schools.com/cssref/css_colors_legal.asp)
+initial | [Sets this property to its default value](https://www.w3schools.com/cssref/css_initial.asp)
+inherit | [Inherits this property from its parent element](https://www.w3schools.com/cssref/css_inherit.asp)
 
 
 #### inherit ####
