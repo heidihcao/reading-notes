@@ -33,7 +33,7 @@ span {
 .extra span {
   color: inherit;
 }
-
+<br/>
 #### initial ####
 div {
   color: red;
@@ -42,9 +42,9 @@ div {
 h1 {
   color: initial;
 }
-
+<br/>
 #### Different HEX colors with transparency ####
- <br/>#p1a {background-color: #ff000080;}   /* red transparency */
+#p1a {background-color: #ff000080;}   /* red transparency */
  <br/>#p2a {background-color: #00ff0080;}   /* green transparency */
  <br/>#p3a {background-color: #0000ff80;}   /* blue transparency */
 
