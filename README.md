@@ -16,4 +16,4 @@ Topic | Day
 [Day 2 PM Reading Notes](day1_PM.md)| Text Editor
 [Day 2 AM Reading Notes](day2_AM.md) | Git ACP
 [Day 2 PM Reading Notes](day2_PM.md) | HTML
-
+[Day 3 AM Reading Notes](day3_AM.md) | CSS
