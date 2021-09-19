@@ -18,3 +18,4 @@ Topic | Day
 [Day 2 PM Reading Notes](day2_PM.md) | HTML
 [Day 3 AM Reading Notes](day3_AM.md) | CSS
 [Day 3 PM Reading Notes](day3_PM.md) | JavaScript
+[Day 4 AM Reading Notes](day4_AM.md) | JavaScript Programming
