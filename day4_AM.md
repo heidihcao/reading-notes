@@ -3,11 +3,11 @@
 
 ## Control Flow##
 * The control flow is the order in which the computer executes statements in a script.
-> if (field==empty) {
->    promptUser();
->} else {
->    submitForm();
->}
+* > if (field==empty) {
+* >    promptUser();
+* >} else {
+* >    submitForm();
+* >}
 
 ## [JavaScript Functions](https://www.w3schools.com/js/js_functions.asp)
 >function name(parameter1, parameter2, parameter3) {
