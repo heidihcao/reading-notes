@@ -16,29 +16,32 @@
 * }
 
 ## [Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operatorsv)
->function randomnumber(){
-    //100 is inclusive, 0 not inlcuded
-    let randomnum = Math.floor(Math.random()*100) + 1;
-    return "Your lucky number today is " + randomnum
+
+## Sample Guessing Game For/While imbedded loops
+
+>function randomnumber(){<br>
+    //100 is inclusive, 0 not inlcuded<br>
+    let randomnum = Math.floor(Math.random()*100) + 1;<br>
+    return "Your lucky number today is " + randomnum<br>
 }
 
-function guessinggame(){
-    correctanswer = randomnumber();
-    console.log(randomnumber);
-    //console.log is for testing and double checking
-    let guesses = 3;
-    for(let i=0; i<guesses; i++){
-        //i++ add one each time
-        let guessesLeft = guesses - i;
-        let userGuess = parseInt(prompt('Please enter an integer between 1 and 100. You have '+ guessesLeft + ' tries left!'));
-        while(userGuess<1 || userGuess>100){
-            userGuess = parseInt(prompt('Try Again! Did you enter an integer between 1 and 100?'));
-        }
-        if(userGuess == correctanswer){
-            alert('WAHOO! YOU GOT IT RIGHT!!! CONFETTI TIME');
-            break;
-        } else {
-            alert('OOPS');
-        }
-    }
-}
+> function guessinggame(){<br>
+    correctanswer = randomnumber();<br>
+    console.log(randomnumber);<br>
+    //console.log is for testing and double checking<br>
+    let guesses = 3;<br>
+    for(let i=0; i<guesses; i++){<br>
+        //i++ add one each time<br>
+        let guessesLeft = guesses - i;<br>
+        let userGuess = parseInt(prompt('Please enter an integer between 1 and 100. You have '+ guessesLeft + ' tries left!'));<br>
+        while(userGuess<1 || userGuess>100){<br>
+            userGuess = parseInt(prompt('Try Again! Did you enter an integer between 1 and 100?'));<br>
+        }<br>
+        if(userGuess == correctanswer){<br>
+            alert('WAHOO! YOU GOT IT RIGHT!!! CONFETTI TIME');<br>
+            break;<br>
+        } else {<br>
+            alert('OOPS');<br>
+        }<br>
+    }<br>
+}<br>
