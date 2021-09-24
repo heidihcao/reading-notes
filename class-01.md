@@ -14,16 +14,16 @@
     3. use a rendering engine to show the page on the screen
 - All major browser use a JavaScript interpreter to translate JavaScript instructions into ones the computer can follow
 
--*How HTML, CSS, and JavaScript fit*
+- *How HTML, CSS, and JavaScript fit*
     1. <html> CONTENT LAYER
     1. {css} PRESENTATION LAYER
     1. javascript() BEHAVIOR LAYER
-    
 - document.write('Good Afternoon');
 - JS runs where it is found in HTML: when the browser comes across a <script> element;
     <script src=".js"></script>
 
- # HTML 
+
+## HTML 
 Tag: <element></element>
 <!DOCTYPE html> Opening in HTML
 <! ----> to **comment** in HTML
