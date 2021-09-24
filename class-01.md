@@ -1,4 +1,5 @@
-# HTML 
+
+ # HTML 
 Tag: <element></element>
 <!DOCTYPE html> Opening in HTML
 <! ----> to **comment** in HTML
@@ -25,17 +26,16 @@ Inline statements: <em></em><b></b>
         src="">
 </iframe>
 
-**FIGURE**
+**Figure**
 <figure>
     <img src=""/>
     <figcaption> SOMETHING </figcaption>
 </figure>
 
 
-**info about your page**
+**Info about your page**
 <meta name=""
       content="">
-    
     
 **Others*
 <nav></nav>
@@ -43,7 +43,8 @@ Inline statements: <em></em><b></b>
 <section></section>
 <hgroup></hgroup>
 <aside></aside>: when used inside <article> element, contain info that is related to the article; outside <article>, acts as a container for content related to the entire page
-<a href=""></a>: place around a block level element that contains child elements. This allos you to turn an entire block into a link
+<a href=""></a>: place around a block level element that contains child elements. This allos you to turn an entire block into a link   
+    
 
 # JS: an interpreted programming language
 - **script**: a series of instructions that the computer can follow in order to achieve a goal. 
@@ -68,7 +69,6 @@ Inline statements: <em></em><b></b>
 - document.write('Good Afternoon');
 - JS runs where it is found in HTML: when the browser comes across a <script> element;
     <script src=".js"></script>
-
 
 >From the Duckett HTML book:
 >Introduction (pp.2-11)
