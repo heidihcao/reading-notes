@@ -3,21 +3,21 @@ This will be reading notes for Code Fellows!
 # Code 201 Reading Notes
 Topic | Day
 ------------ | -------------
-[No.1 Daily Reading Assignment](class-01.md)| 
-[No.2 Daily Reading Assignment](class-02.md)|
-[No.3 Daily Reading Assignment](class-03.md)| 
-[No.4 Daily Reading Assignment](class-04.md)| 
-[No.5 Daily Reading Assignment](class-05.md)| 
-[No.6 Daily Reading Assignment](class-06.md)| 
-[No.7 Daily Reading Assignment](class-07.md)|
-[No.8 Daily Reading Assignment](class-08.md)| 
-[No.9 Daily Reading Assignment](class-09.md)| 
-[No.10 Daily Reading Assignment](class-10.md)| 
-[No.11 Daily Reading Assignment](class-11.md)| 
-[No.12 Daily Reading Assignment](class-12.md)|
-[No.13 Daily Reading Assignment](class-13.md)| 
-[No.14 Daily Reading Assignment](class-14.md)| 
-[No.15 Daily Reading Assignment](class-15.md)| 
+[No.1 Daily Reading Assignment](class-01.md)| HTML, CSS, JS
+[No.2 Daily Reading Assignment](class-02.md)| TBD
+[No.3 Daily Reading Assignment](class-03.md)| TBD
+[No.4 Daily Reading Assignment](class-04.md)| TBD
+[No.5 Daily Reading Assignment](class-05.md)| TBD
+[No.6 Daily Reading Assignment](class-06.md)| TBD
+[No.7 Daily Reading Assignment](class-07.md)| TBD
+[No.8 Daily Reading Assignment](class-08.md)| TBD
+[No.9 Daily Reading Assignment](class-09.md)| TBD
+[No.10 Daily Reading Assignment](class-10.md)| TBD
+[No.11 Daily Reading Assignment](class-11.md)| TBD
+[No.12 Daily Reading Assignment](class-12.md)| TBD
+[No.13 Daily Reading Assignment](class-13.md)| TBD
+[No.14 Daily Reading Assignment](class-14.md)| TBD
+[No.15 Daily Reading Assignment](class-15.md)| TBD
 
 ## Code 102 Reading Notes
 ## Table of Contents 
