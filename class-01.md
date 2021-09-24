@@ -7,7 +7,7 @@
 - **events**:brake, happens where: driver slows down
 - **methods**: represent things people need to do with objects. <br> They can retrieve/update the values of an object's properties, i.e. changeSpeed(), makeBooking()
 
-- *How a browswer sees a webpage:
+- *How a browswer sees a webpage*:
   1. browser receives an HTMl page
   2. creates a model of the page and stores it in memory
   3. use a rendering engine to show the page on the screen
