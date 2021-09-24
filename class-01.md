@@ -5,7 +5,7 @@
 
 - **objects and properties**: make, currentSpeed, color, fuel
 - **events**:brake, happens where: driver slows down
-- **methods**: represent things people need to do with objects. <\n> They can retrieve/update the values of an object's properties, i.e. changeSpeed(), makeBooking()
+- **methods**: represent things people need to do with objects. <br> They can retrieve/update the values of an object's properties, i.e. changeSpeed(), makeBooking()
 
 
 
