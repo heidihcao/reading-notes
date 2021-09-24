@@ -1,16 +1,16 @@
 # JS: an interpreted programming language
 - **script**: a series of instructions that the computer can follow in order to achieve a goal. 
-- 1. flowchart: tasks; generic step, event, input or output, decision (see pic on page 23)
-- 1. lists: steps required
+    1. flowchart: tasks; generic step, event, input or output, decision (see pic on page 23)
+    1. lists: steps required
 
 - **objects and properties**: make, currentSpeed, color, fuel
 - **events**:brake, happens where: driver slows down
 - **methods**: represent things people need to do with objects. <br> They can retrieve/update the values of an object's properties, i.e. changeSpeed(), makeBooking()
 
 - *How a browswer sees a webpage:
-1. browser receives an HTMl page
-2. creates a model of the page and stores it in memory
-3. use a rendering engine to show the page on the screen
+  1. browser receives an HTMl page
+  2. creates a model of the page and stores it in memory
+  3. use a rendering engine to show the page on the screen
 - All major browser use a JavaScript interpreter to translate JavaScript instructions into ones the computer can follow
 
 
