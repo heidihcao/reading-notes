@@ -28,6 +28,25 @@
  <hr/>
 
 # JS
+  - Arrays are special types of variables that store more than one piece of related information
+  - Javascript distinguishes between numbers 0-9, strings/text, and Boolean values (true or false).
+  - Creating an array: 
+    1. var colors; colors = ['white', 'black', 'custom']
+    1. var colors = new Array('white', 'black', 'custom');
+  - === strictly equal to
+  - !=== strictly does not equal to
+  - if (score>50){ <br>
+      document.write('You passed!');<br>
+    } else {<br>
+      document.write('Try again');<br>
+    }
+  - Constructing comparison operators: var HasPassed = score>= pass;
+  - && logical and
+  - || logical or
+  - ! logical not
+  - logial expressions are evaluated left to right. you might commit short-circuit evaluation (i.e. false && anything --> true; true || anything --> true)
+  
+  
 
 >From the Duckett HTML book:
 >Chapter 2: “Text” (pp.40-61)
