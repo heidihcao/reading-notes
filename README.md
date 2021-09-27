@@ -1,10 +1,11 @@
 This will be reading notes for Code Fellows!
 
 # Code 201 Reading Notes
+
 Topic | Day
 ------------ | -------------
-[No.1 Daily Reading Assignment](class-01.md)| HTML, CSS, JS
-[No.2 Daily Reading Assignment](class-02.md)| TBD
+[No.1 Daily Reading Assignment](class-01.md)| Sep 25
+[No.2 Daily Reading Assignment](class-02.md)| Sep 28
 [No.3 Daily Reading Assignment](class-03.md)| TBD
 [No.4 Daily Reading Assignment](class-04.md)| TBD
 [No.5 Daily Reading Assignment](class-05.md)| TBD
