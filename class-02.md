@@ -49,8 +49,8 @@
  <hr/>
 
 # Class Notes
-  - Data Types: *null* - specifically and explicitly defined 'let username =null;'
-  - *undefined* - a primative value that is assigned to varaibles when no other value is assigned - 'let username;'
+  - Data Types: * null * - specifically and explicitly defined 'let username =null;'
+  - * undefined * - a primative value that is assigned to varaibles when no other value is assigned - 'let username;'
   
 
 >From the Duckett HTML book:
