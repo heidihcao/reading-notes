@@ -6,47 +6,47 @@ Definition lists:
     <dt> Sashimi</dt>
     <dd> Sashimi is XYZ </dd>
 
-**Box Dimensions**: width, height <--- This is done in css
-**Limiting Width**: min-width, max-width <--- This is done in css
-**Limiting Height**: min-height, max-height <--- This is done in css
-**overflow**: hidden; OR overflow: scroll; <--- This is done in css
-**border-width**; 
-**border-style**: groove/double/dashed/ridge/inset/outset/dotted/solid;
-**border-color**
-**border**: this property allows you to specify the width, style and color of a border in one property
-**border-radius**
-**border-image**: url("")
-**box-shadow**
-**visibility**: hidden/visible;
-**inline**: causes a block-level element to act like an inline element.
-**block**: reverse.
-**inline-block**: causes a block-level element to flow like an inline element, while retianing other features of a block element.
-**none**
-**Out to In**: Margin, Border, Padding
+**Box Dimensions**: width, height <--- This is done in css <br>
+**Limiting Width**: min-width, max-width <--- This is done in css<br>
+**Limiting Height**: min-height, max-height <--- This is done in css<br>
+**overflow**: hidden; OR overflow: scroll; <--- This is done in css<br>
+**border-width**; <br>
+**border-style**: groove/double/dashed/ridge/inset/outset/dotted/solid;<br>
+**border-color**<br>
+**border**: this property allows you to specify the width, style and color of a border in one property<br>
+**border-radius**<br>
+**border-image**: url("")<br>
+**box-shadow**<br>
+**visibility**: hidden/visible;<br>
+**inline**: causes a block-level element to act like an inline element.<br>
+**block**: reverse.<br>
+**inline-block**: causes a block-level element to flow like an inline element, while retianing other features of a block element.<br>
+**none**<br>
+**Out to In**: Margin, Border, Padding<br>
 
 
 # jQuery
 > simple selectors
 > common tasks in less code
 > cross-browser compatibility
-**Looping**
-**Chaining**
-**Getting Element Content**
-**Getting at Content**
-**Updating Elements**
-**Changing Content**
-**Inserting Elements**
-**Adding New Content**
-**Getting and Setting Attribute Values**
-**Working with Attributes**
-**Getting and Setting CSS Properties**
-**Changing CSS Rules**
-**Working with Each Element in a Selection**
-**Using.Each()**
-**Event Methods**
-**Events**
-**The Event Object**
-**Event Object**
+**Looping**<br>
+**Chaining**<br>
+**Getting Element Content**<br>
+**Getting at Content**<br>
+**Updating Elements**<br>
+**Changing Content**<br>
+**Inserting Elements**<br>
+**Adding New Content**<br>
+**Getting and Setting Attribute Values**<br>
+**Working with Attributes**<br>
+**Getting and Setting CSS Properties**<br>
+**Changing CSS Rules**<br>
+**Working with Each Element in a Selection**<br>
+**Using.Each()**<br>
+**Event Methods**<br>
+**Events**<br>
+**The Event Object**<br>
+**Event Object**<br>
 
 
 
