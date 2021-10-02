@@ -26,8 +26,8 @@ Definition lists:
 
 
 # jQuery
-> simple selectors
-> common tasks in less code
+> simple selectors<br>
+> common tasks in less code<br>
 > cross-browser compatibility<br>
 
 **Looping**<br>
