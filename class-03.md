@@ -28,7 +28,8 @@ Definition lists:
 # jQuery
 > simple selectors
 > common tasks in less code
-> cross-browser compatibility
+> cross-browser compatibility<br>
+
 **Looping**<br>
 **Chaining**<br>
 **Getting Element Content**<br>
