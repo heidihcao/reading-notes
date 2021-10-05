@@ -18,7 +18,7 @@
 7. using float to place elements side by side<br>
 8. parents of floated elements: solution - overlow: auto; width: 100%<br>
 9. creating multi column layouts with floats: width; float; margin<br>
-
+ <hr/>
 Fixed layout vs. Liquid layout <br>
 960.gs grid: link the stylesheet<br>
 Multiple style sheets @import <br>
@@ -26,8 +26,8 @@ Multiple style sheets @import <br>
 # JS
 >Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
 1. Parameters to a function: width and height to a function calculating area<br>
-2. Declaring a function: ** function sayHello(){document.write('Hello!');} **<br>
-3. Declaring functions that need info: ** function getArea(w,d){erturn w*d;} ** <br>
+2. Declaring a function: **function sayHello(){document.write('Hello!');}**<br>
+3. Declaring functions that need info: **function getArea(w,d){erturn w*d;}** <br>
 4. Calling Functions that need info getArea(3,5)<br>
-5. Getting multiple values out of a function: ** var areaOne=getSize(3,2,3)[0]**  <br>
+5. Getting multiple values out of a function: **var areaOne=getSize(3,2,3)[0]**  <br>
 6. anonymous functions: var size=area(3,4)
