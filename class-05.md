@@ -5,16 +5,16 @@ Three rules for creating images
 3. Measure images in pixels
 
 >Chapter 11: “Color” (pp.246-263)<br>
-opacity, rgba <br>
-hsl, hsla<br>
+1. opacity, rgba <br>
+2. hsl, hsla<br>
 
 >Chapter 12: “Text” (pp.264-299)
-font-family<br>
-font-face<br>
-service-based font-face<br>
-text-transform<br>
-:link, :visited --- Styling links<br>
-:hover, :active, :focus --Responding to Users<br>
+1. font-family<br>
+2. font-face<br>
+3. service-based font-face<br>
+4. text-transform<br>
+5. :link, :visited --- Styling links<br>
+6. :hover, :active, :focus --Responding to Users<br>
 
 # Attribute Selectors on page 292
 1. Existence
