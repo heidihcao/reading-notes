@@ -4,17 +4,17 @@ Three rules for creating images
 2. Save imaged at the right size
 3. Measure images in pixels
 
->Chapter 11: “Color” (pp.246-263)
+>Chapter 11: “Color” (pp.246-263)<br>
 opacity, rgba <br>
 hsl, hsla<br>
 
 >Chapter 12: “Text” (pp.264-299)
-font-family
-font-face
-service-based font-face
-text-transform
-:link, :visited --- Styling links
-:hover, :active, :focus --Responding to Users
+font-family<br>
+font-face<br>
+service-based font-face<br>
+text-transform<br>
+:link, :visited --- Styling links<br>
+:hover, :active, :focus --Responding to Users<br>
 
 # Attribute Selectors on page 292
 1. Existence
