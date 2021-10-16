@@ -6,10 +6,10 @@ Topic | Day
 ------------ | -------------
 [No.1 Daily Reading Assignment](class-01.md)| Sep 25
 [No.2 Daily Reading Assignment](class-02.md)| Sep 28
-[No.3 Daily Reading Assignment](class-03.md)| TBD
-[No.4 Daily Reading Assignment](class-04.md)| TBD
-[No.5 Daily Reading Assignment](class-05.md)| TBD
-[No.6 Daily Reading Assignment](class-06.md)| TBD
+[No.3 Daily Reading Assignment](class-03.md)| Oct 2
+[No.4 Daily Reading Assignment](class-04.md)| Oct 5
+[No.5 Daily Reading Assignment](class-05.md)| Oct 8
+[No.6 Daily Reading Assignment](class-06.md)| Oct 12
 [No.7 Daily Reading Assignment](class-07.md)| TBD
 [No.8 Daily Reading Assignment](class-08.md)| TBD
 [No.9 Daily Reading Assignment](class-09.md)| TBD
