@@ -10,7 +10,7 @@ Topic | Day
 [No.4 Daily Reading Assignment](class-04.md)| Oct 5
 [No.5 Daily Reading Assignment](class-05.md)| Oct 8
 [No.6 Daily Reading Assignment](class-06.md)| Oct 12
-[No.7 Daily Reading Assignment](class-07.md)| TBD
+[No.7 Daily Reading Assignment](class-07.md)| Oct 16
 [No.8 Daily Reading Assignment](class-08.md)| TBD
 [No.9 Daily Reading Assignment](class-09.md)| TBD
 [No.10 Daily Reading Assignment](class-10.md)| TBD
