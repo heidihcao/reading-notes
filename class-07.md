@@ -23,3 +23,66 @@
    1. Browser Object Model
    2. Document Object Model (DOM)
    3. Global Javascript Objects
+
+> Class notes
+> ? Trailing Comma
+> ? Prototype but overwrite one value?
+>
+'use strict';
+
+//console.log('Hi');
+
+// //object literal
+// let oneStudent = {
+//   name:'Steve', 
+//   codeClass: 201,
+//   pronouns: 'they, them',
+//   online: true,
+//   school: 'Code Fellows',
+// };
+
+// console.log(oneStudent);
+
+// let otherStudent = {
+//   name:'Juan', 
+//   codeClass: 201,
+//   pronouns: 'He, Him',
+//   online: true,
+//   school: 'Code Fellows'
+// };
+
+// console.log(oneStudent);
+
+let studentArray = [];
+
+// Constructor Function
+//this. does not refer to Function, but the object that will be created "juan, sara"
+
+function Student(name, pronouns){
+  this.studentName = name;
+  this.codeClass= 201;
+  this.pronouns = pronouns;
+  this.online = true;
+  this.introduce = function(){
+    console.log(`Hi my name is ${this.studentName}. My pronouns are ${this.pronouns}. I am in the ${this.codeClass}.`);
+  };
+  studentArray.push(this);
+}
+
+// Instantiate a Student object from a Constructor
+let juan = new Student('Juan','he, him');
+let sara = new Student('Sara', 'she, her');
+// console.log(juan);
+// console.log(sara);
+// juan.introduce();
+// sara.introduce();
+
+console.log(studentArray);
+
+// Student all inheriting the haircolor.
+Student.prototype.hairColor = 'black';
+
+
+for (let i=0; i < studentArray.length; i++){
+  studentArray[i].introduce();
+}
