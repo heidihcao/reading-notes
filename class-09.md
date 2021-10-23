@@ -1,4 +1,4 @@
-##JS##
+## JS ##
 >Chapter 6: “Events” (pp.243-292)
 1. Interactions create events, events trigger code, code responds to users.
 2. UI events, Keyboard events, Mouse events, Focus events, Form events, Mutation events (when the DOM structure has been changed by a script), Focus events
@@ -12,7 +12,7 @@
 10. Changing default behavior
 
 
-#HTML#
+## HTML ##
 
 > Chapter 7: “Forms” (p.144-175)
 
