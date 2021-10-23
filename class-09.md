@@ -27,13 +27,13 @@
 > Chapter 14: “Lists, Tables & Forms” (pp.330-357)
   
 1. Bullet Point Styles: list-style-type<br>
-2. Images for Bullets: list-style-image<br>
-3. Positioning the Marker: list-style-position<br>
-4. List Shorthand: list-style<br>
-5. Table Properties on p. 337<br>
-6. Border on Empty Cells: empty-cells<br>
-7. Gaps between Cells: border-spacing, border-collapse<br>
-8. Styling Forms, Text Inputs, Submit Buttons, Fieldsets & Legends<br>
-9. Aligning Form Controls
+  2. Images for Bullets: list-style-image<br>
+  3. Positioning the Marker: list-style-position<br>
+  4. List Shorthand: list-style<br>
+  5. Table Properties on p. 337<br>
+  6. Border on Empty Cells: empty-cells<br>
+  7. Gaps between Cells: border-spacing, border-collapse<br>
+  8. Styling Forms, Text Inputs, Submit Buttons, Fieldsets & Legends<br>
+  9. Aligning Form Controls
   
 
