@@ -11,8 +11,8 @@ Topic | Day
 [No.5 Daily Reading Assignment](class-05.md)| Oct 8
 [No.6 Daily Reading Assignment](class-06.md)| Oct 12
 [No.7 Daily Reading Assignment](class-07.md)| Oct 16
-[No.8 Daily Reading Assignment](class-08.md)| TBD
-[No.9 Daily Reading Assignment](class-09.md)| TBD
+[No.8 Daily Reading Assignment](class-08.md)| Oct 18
+[No.9 Daily Reading Assignment](class-09.md)| Oct 22
 [No.10 Daily Reading Assignment](class-10.md)| TBD
 [No.11 Daily Reading Assignment](class-11.md)| TBD
 [No.12 Daily Reading Assignment](class-12.md)| TBD
