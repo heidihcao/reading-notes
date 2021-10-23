@@ -1,6 +1,6 @@
-#HTML#
+##HTML##
 
->Chapter 7: “Forms” (p.144-175)
+> Chapter 7: “Forms” (p.144-175)
 1. Form Structure: <form type="password", "radio", "checkbox", "file", "submit", "image", "date", "email", "search", "url"><br>
 2. Text Input: <input><br>
 3. Text Area: <textarea><br>
@@ -9,7 +9,7 @@
 6. Labelling Form Controls: <label><br>
 7. Grouping Form Elements <fieldset> <legend><br>
   
->Chapter 14: “Lists, Tables & Forms” (pp.330-357)
+> Chapter 14: “Lists, Tables & Forms” (pp.330-357)
 1. Bullet Point Styles: list-style-type<br>
 2. Images for Bullets: list-style-image<br>
 3. Positioning the Marker: list-style-position<br>
@@ -20,6 +20,6 @@
 8. Styling Forms, Text Inputs, Submit Buttons, Fieldsets & Legends<br>
 9. Aligning Form Controls<br>
   
-#JS
+##JS##
 >Chapter 6: “Events” (pp.243-292)
 1. Interactions create events, events trigger code, code respondds to users.
