@@ -8,7 +8,7 @@
 4. Drop Down List Box, Multiple Select Box <select><br>
 5. Button & Hidden Controls <button><br>
 6. Labelling Form Controls: <label><br>
-7. Grouping Form Elements <fieldset> <legend><br>
+7. Grouping Form Elements <fieldset> <legend>
   
 > Chapter 14: “Lists, Tables & Forms” (pp.330-357)
   
@@ -20,8 +20,8 @@
 6. Border on Empty Cells: empty-cells<br>
 7. Gaps between Cells: border-spacing, border-collapse<br>
 8. Styling Forms, Text Inputs, Submit Buttons, Fieldsets & Legends<br>
-9. Aligning Form Controls<br>
+9. Aligning Form Controls
   
 #JS#
 >Chapter 6: “Events” (pp.243-292)
-1. Interactions create events, events trigger code, code respondds to users.
+1. Interactions create events, events trigger code, code responds to users.
