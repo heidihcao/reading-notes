@@ -2,8 +2,8 @@
 >Chapter 6: “Events” (pp.243-292)
 1. Interactions create events, events trigger code, code responds to users.
 2. UI events, Keyboard events, Mouse events, Focus events, Form events, Mutation events (when the DOM structure has been changed by a script), Focus events
-3. Select the element nodes you want the script ot respond to --> indicate which event on the selected nodes will trigger the response --> start the code you wnat to run when the event occurs.
-4. Three ways to bindn event to an element: DO NOT USE HTML EVENT handlers, Traditional DOM event handlers, DOM level 2 event listeners
+3. Select the element nodes you want the script to respond to --> indicate which event on the selected nodes will trigger the response --> start the code you want to run when the event occurs.
+4. Three ways to bind event to an element: DO NOT USE HTML EVENT handlers, Traditional DOM event handlers, DOM level 2 event listeners
 5. element.onevent=functionName;
 6. element.addEventListener('event', functionName[, Boolean];
 7. Event flow: bubbling (outwards) and capturing (inwards)
