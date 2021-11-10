@@ -15,9 +15,9 @@ Topic | Day
 [No.9 Daily Reading Assignment](class-09.md)| Oct 22
 [No.10 Daily Reading Assignment](class-10.md)| Oct 26
 [No.11 Daily Reading Assignment](class-11.md)| Oct 29
-[No.12 Daily Reading Assignment](class-12.md)| TBD
-[No.13 Daily Reading Assignment](class-13.md)| TBD
-[No.14 Daily Reading Assignment](class-14.md)| TBD
+[No.12 Daily Reading Assignment](class-12.md)| Nov 2
+[No.13 Daily Reading Assignment](class-13.md)| Nov 6
+[No.14 Daily Reading Assignment](class-14.md)| Nov 9
 [No.15 Daily Reading Assignment](class-15.md)| TBD
 
 ## Code 102 Reading Notes
